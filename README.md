@@ -12,7 +12,7 @@ PDF Slides and links for learning Verilog + iverilog simulation
 
 You can copy these commands from here:
 ```
-iverilog Module_Name.vvp Module_Name_Testbench.v
+iverilog -o Module_Name.vvp Module_Name_Testbench.v
 vvp Module_Name.vvp
 gtkwave Module_Name.vcd  
 ```
