@@ -10,6 +10,13 @@ PDF Slides and links for learning Verilog + iverilog simulation
 
 ![Alt text](https://github.com/IUST-Computer-Organization/Verilog-Tutorial/blob/main/iverilog_command_lines_en.png "iverilog command lines")
 
+For example:
+```
+iverilog Module_Name.vvp testbench.v
+vvp Module_Name.vvp
+gtkwave Module_Name.vcd  
+```
+
 ### PDF Slides
 All the files, images and graphics provided in this directory belong to their respective owners and we or this organization do not claim any right over them.
 - `Sharif University of Technology - Verilog HDL` courtesy of Mohammad-Reza Movahedin, PhD. (Sharif Univeristy of Technology)
