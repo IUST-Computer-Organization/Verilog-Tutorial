@@ -12,6 +12,6 @@ PDF Slides and links for learning Verilog + iverilog simulation
 
 ### PDF Slides
 All the files, images and graphics provided in this directory belong to their respective owners and we or this organization do not claim any right over them.\
-`Sharif University of Technology - Verilog HDL` courtesy of Mohammad-Reza Movahedin, PhD. (Sharif Univeristy of Technology)\
-`UC Berkeley - Verilog HDL` courtesy of Sofia Shao, PhD. (University of California Berkeley)\
-`University of Crete, Greece - Verilog HDL` courtesy of Thanasis Oikonomou, MSc. (University of Crete, Greece)
+- `Sharif University of Technology - Verilog HDL` courtesy of Mohammad-Reza Movahedin, PhD. (Sharif Univeristy of Technology)\
+- `UC Berkeley - Verilog HDL` courtesy of Sofia Shao, PhD. (University of California Berkeley)\
+- `University of Crete, Greece - Verilog HDL` courtesy of Thanasis Oikonomou, MSc. (University of Crete, Greece)
