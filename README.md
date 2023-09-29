@@ -10,9 +10,9 @@ PDF Slides and links for learning Verilog + iverilog simulation
 
 ![Alt text](https://github.com/IUST-Computer-Organization/Verilog-Tutorial/blob/main/iverilog_command_lines_en.png "iverilog command lines")
 
-For example:
+You can copy these commands from here:
 ```
-iverilog Module_Name.vvp testbench.v
+iverilog Module_Name.vvp Module_Name_Testbench.v
 vvp Module_Name.vvp
 gtkwave Module_Name.vcd  
 ```
